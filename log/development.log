@@ -1,0 +1,3106 @@
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:28:41 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 664ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:28:47 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 221ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:28:58 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 176ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:29:35 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 159ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:29:39 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 164ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:37:21 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 326ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:37:59 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 170ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:39:46 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 210ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:40:08 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 267ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:40:30 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 374ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:40:48 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 167ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:40:54 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 167ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:51:42 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 320ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:51:46 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 171ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:52:37 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 173ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:53:36 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 205ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:53:48 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 180ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-29 15:56:34 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /Users/CorinneKelly/.rvm/gems/ruby-2.3.3/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/CorinneKelly/.rvm/gems/ruby-2.3.3/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb (5.9ms)
+Completed 200 OK in 49ms (Views: 34.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/favicon.ico" for ::1 at 2017-03-29 15:56:35 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:57:06 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 234ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:57:24 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 178ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:57:52 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 182ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:58:02 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 176ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 15:58:42 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 185ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 16:00:09 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 359ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 16:00:28 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 271ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 16:00:59 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 184ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 16:06:36 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 265ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 16:06:48 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 178ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 16:06:53 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 167ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 16:07:13 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 382ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 16:07:55 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 211ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/LAX" for ::1 at 2017-03-29 16:08:18 -0400
+Processing by ApplicationController#serve as HTML
+  Parameters: {"destination"=>"LAX"}
+Completed 200 OK in 173ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/47.25235256346493,-94.93426875-latlong" for ::1 at 2017-03-29 18:05:53 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/flights/47.25235256346493,-94.93426875-latlong"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/flights/41.47891143183769,-76.4772375-latlong" for ::1 at 2017-03-29 18:06:09 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/flights/41.47891143183769,-76.4772375-latlong"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/flights/41.347082417287076,-74.0163-latlong" for ::1 at 2017-03-29 18:06:13 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/flights/41.347082417287076,-74.0163-latlong"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/flights/36.84793341595988,-81.57489375-latlong" for ::1 at 2017-03-29 18:06:15 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/flights/36.84793341595988,-81.57489375-latlong"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/flights/42.5238978014841,-90.71551875-latlong" for ::1 at 2017-03-29 18:07:19 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/flights/42.5238978014841,-90.71551875-latlong"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/flights/41.0826221828022,-91.594425-latlong" for ::1 at 2017-03-29 18:07:44 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/flights/41.0826221828022,-91.594425-latlong"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/flights/41.87279222299351,-101.96551875-latlong" for ::1 at 2017-03-29 18:08:17 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/flights/41.87279222299351,-101.96551875-latlong"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/flights/40.95,-91.77-latlong" for ::1 at 2017-03-29 18:24:17 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/flights/40.95,-91.77-latlong"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/" for ::1 at 2017-03-29 18:26:35 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /Users/CorinneKelly/.rvm/gems/ruby-2.3.3/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/CorinneKelly/.rvm/gems/ruby-2.3.3/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb (5.7ms)
+Completed 200 OK in 50ms (Views: 34.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/40.95,-91.77-latlong" for ::1 at 2017-03-29 18:27:34 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/flights/40.95,-91.77-latlong"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/flights/40.95" for ::1 at 2017-03-29 18:33:29 -0400
+Processing by ApplicationController#serve as 
+  Parameters: {"destination"=>"40"}
+Completed 200 OK in 12678ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/40.95," for ::1 at 2017-03-29 18:33:48 -0400
+Processing by ApplicationController#serve as 
+  Parameters: {"destination"=>"40"}
+Completed 200 OK in 6323ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/40.95,-91.77" for ::1 at 2017-03-29 18:34:09 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/flights/40.95,-91.77"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/flights/40.95,-91.77" for ::1 at 2017-03-29 18:34:18 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/flights/40.95,-91.77"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/flights/40.95,91.77" for ::1 at 2017-03-29 18:34:24 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/flights/40.95,91.77"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/flights/40.95,91.77-latlong" for ::1 at 2017-03-29 18:34:32 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/flights/40.95,91.77-latlong"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/flights/40.95,91.77-latlong" for ::1 at 2017-03-29 18:37:34 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/flights/40.95,91.77-latlong"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/flights/40.95,91.77-latlong" for ::1 at 2017-03-29 18:37:44 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/flights/40.95,91.77-latlong"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/flights/41.215,-88.255-latlong" for ::1 at 2017-03-29 18:39:37 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/flights/41.215,-88.255-latlong"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/flights/49.471_11.238-latlong" for ::1 at 2017-03-29 18:44:28 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/flights/49.471_11.238-latlong"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/flights/45.556%4.382-latlong" for ::1 at 2017-03-29 18:45:25 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/flights/45.556%4.382-latlong"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/flights/44.812-2.273-latlong" for ::1 at 2017-03-29 18:46:16 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/flights/44.812-2.273-latlong"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/flights/function%20toString()%20%7B%20[native%20code]%20%7D-function%20toString()%20%7B%20[native%20code]%20%7D-latlong" for ::1 at 2017-03-29 18:50:44 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/flights/function%20toString()%20%7B%20[native%20code]%20%7D-function%20toString()%20%7B%20[native%20code]%20%7D-latlong"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/flights/47-013-3-152-latlong" for ::1 at 2017-03-29 18:51:15 -0400
+  
+ActionController::RoutingError (No route matches [GET] "/flights/47-013-3-152-latlong"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+rack-cors (0.4.1) lib/rack/cors.rb:81:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+Started GET "/flights/47-609-4-734-latlong" for ::1 at 2017-03-29 19:09:52 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"47-609-4-734-latlong"}
+Completed 200 OK in 398ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x999y-87x903-latlong" for ::1 at 2017-03-29 21:40:52 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x999y-87x903-latlong"}
+Completed 200 OK in 366ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/45x55556392484961y1x921199999999999-latlong" for ::1 at 2017-03-29 21:41:48 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"45x55556392484961y1x921199999999999-latlong"}
+Completed 200 OK in 197ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/40x949991290805606y-74x0163-latlong" for ::1 at 2017-03-29 21:42:14 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"40x949991290805606y-74x0163-latlong"}
+Completed 200 OK in 203ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x714361313232054y-77x1803625-latlong" for ::1 at 2017-03-29 21:42:22 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x714361313232054y-77x1803625-latlong"}
+Completed 200 OK in 188ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/41x215y-73x1374-latlong" for ::1 at 2017-03-29 22:04:22 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"41x215y-73x1374-latlong"}
+Completed 200 OK in 524ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/38x2416y-82x4538-latlong" for ::1 at 2017-03-29 22:04:31 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"38x2416y-82x4538-latlong"}
+Completed 200 OK in 618ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/41x4789y13x5228-latlong" for ::1 at 2017-03-29 22:04:40 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"41x4789y13x5228-latlong"}
+Completed 200 OK in 672ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x856956782321454y-93x17645625-latlong" for ::1 at 2017-03-29 22:06:35 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x856956782321454y-93x17645625-latlong"}
+Completed 200 OK in 239ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/34x70906078889074y-5x110050000000001-latlong" for ::1 at 2017-03-29 22:06:53 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"34x70906078889074y-5x110050000000001-latlong"}
+Completed 200 OK in 1459ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/33x39838218221598y-101x7897375-latlong" for ::1 at 2017-03-30 10:00:11 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"33x39838218221598y-101x7897375-latlong"}
+Completed 200 OK in 4736ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/48x54857825516263y4x206356249999999-latlong" for ::1 at 2017-03-30 10:02:18 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"48x54857825516263y4x206356249999999-latlong"}
+Completed 200 OK in 409ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/18x94156899476333y7x018856249999999-latlong" for ::1 at 2017-03-30 10:02:22 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"18x94156899476333y7x018856249999999-latlong"}
+Completed 200 OK in 206ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/50x95746622022615y-2x638712499999997-latlong" for ::1 at 2017-03-30 10:08:36 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"50x95746622022615y-2x638712499999997-latlong"}
+Completed 200 OK in 738ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/19x641151390331572y-4x396524999999997-latlong" for ::1 at 2017-03-30 10:08:45 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"19x641151390331572y-4x396524999999997-latlong"}
+Completed 200 OK in 234ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/38x40936338272729y-75x58793125-latlong" for ::1 at 2017-03-30 10:10:19 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"38x40936338272729y-75x58793125-latlong"}
+Completed 200 OK in 314ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/38x82140295176686y16x521443750000003-latlong" for ::1 at 2017-03-30 10:10:42 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"38x82140295176686y16x521443750000003-latlong"}
+Completed 200 OK in 2681ms (Views: 0.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/21x124075238671193y5x798787500000003-latlong" for ::1 at 2017-03-30 10:12:17 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"21x124075238671193y5x798787500000003-latlong"}
+Completed 200 OK in 245ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/31x126893979489804y-91x144571875-latlong" for ::1 at 2017-03-30 10:12:29 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"31x126893979489804y-91x144571875-latlong"}
+Completed 200 OK in 282ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x429862579585688y-80x86136875-latlong" for ::1 at 2017-03-30 10:14:48 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x429862579585688y-80x86136875-latlong"}
+Completed 200 OK in 394ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/36x313896437966775y-87x7168375-latlong" for ::1 at 2017-03-30 10:15:28 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"36x313896437966775y-87x7168375-latlong"}
+Completed 200 OK in 394ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x214200143162415y3x865193750000003-latlong" for ::1 at 2017-03-30 10:16:31 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x214200143162415y3x865193750000003-latlong"}
+Completed 200 OK in 238ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/34x81317734550181y-90x26466875-latlong" for ::1 at 2017-03-30 10:18:39 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"34x81317734550181y-90x26466875-latlong"}
+Completed 200 OK in 1459ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/38x924635894603604y-77x03712968750006-latlong" for ::1 at 2017-03-30 10:18:48 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"38x924635894603604y-77x03712968750006-latlong"}
+Completed 200 OK in 415ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/31x652083360281818y-5x451212499999997-latlong" for ::1 at 2017-03-30 10:50:55 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"31x652083360281818y-5x451212499999997-latlong"}
+Completed 200 OK in 386ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x876580420278582y-15x514689062499997-latlong" for ::1 at 2017-03-30 10:51:08 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x876580420278582y-15x514689062499997-latlong"}
+Completed 200 OK in 464ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x32278818191504y-12x658243749999997-latlong" for ::1 at 2017-03-30 11:03:30 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x32278818191504y-12x658243749999997-latlong"}
+Completed 200 OK in 425ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/29x68672803097476y-8x966837499999997-latlong" for ::1 at 2017-03-30 11:03:50 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"29x68672803097476y-8x966837499999997-latlong"}
+Completed 200 OK in 416ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x90111703004779y-10x724649999999997-latlong" for ::1 at 2017-03-30 11:04:32 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x90111703004779y-10x724649999999997-latlong"}
+Completed 200 OK in 190ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x429862579585688y-12x130899999999997-latlong" for ::1 at 2017-03-30 11:05:21 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x429862579585688y-12x130899999999997-latlong"}
+Completed 200 OK in 205ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/39x36710028306586y21x794881250000003-latlong" for ::1 at 2017-03-30 13:34:21 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"39x36710028306586y21x794881250000003-latlong"}
+Completed 200 OK in 472ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/37x71738410308344y14x587850000000003-latlong" for ::1 at 2017-03-30 13:35:37 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"37x71738410308344y14x587850000000003-latlong"}
+Completed 200 OK in 597ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/19x06067662069401y-71x457071875-latlong" for ::1 at 2017-03-30 14:14:37 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"19x06067662069401y-71x457071875-latlong"}
+Completed 200 OK in 1100ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x272346678686205y-81x21293125-latlong" for ::1 at 2017-03-30 14:14:50 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x272346678686205y-81x21293125-latlong"}
+Completed 200 OK in 271ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/41x901142090856155y-62x492228125-latlong" for ::1 at 2017-03-30 14:27:19 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"41x901142090856155y-62x492228125-latlong"}
+Completed 200 OK in 273ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/39x09477948649373y16x345662500000003-latlong" for ::1 at 2017-03-30 14:44:22 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"39x09477948649373y16x345662500000003-latlong"}
+Completed 200 OK in 639ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/40x31188045116785y-8x263712499999997-latlong" for ::1 at 2017-03-30 15:36:07 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"40x31188045116785y-8x263712499999997-latlong"}
+Completed 200 OK in 368ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x272346678686205y-80x6855875-latlong" for ::1 at 2017-03-30 15:36:12 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x272346678686205y-80x6855875-latlong"}
+Completed 200 OK in 281ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x481574644371225y-80x15824375-latlong" for ::1 at 2017-03-30 15:36:40 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x481574644371225y-80x15824375-latlong"}
+Completed 200 OK in 527ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/32x69358269786702y-8x439493749999997-latlong" for ::1 at 2017-03-30 15:37:57 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"32x69358269786702y-8x439493749999997-latlong"}
+Completed 200 OK in 253ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/33x430168750201105y-6x857462499999997-latlong" for ::1 at 2017-03-30 15:38:04 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"33x430168750201105y-6x857462499999997-latlong"}
+Completed 200 OK in 635ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/23x884443418622993y-98x08793125-latlong" for ::1 at 2017-03-30 15:40:09 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"23x884443418622993y-98x08793125-latlong"}
+Completed 200 OK in 258ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/29x285068912382236y-95x07767734375-latlong" for ::1 at 2017-03-30 15:40:22 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"29x285068912382236y-95x07767734375-latlong"}
+Completed 200 OK in 1227ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x90111703004779y-80x6855875-latlong" for ::1 at 2017-03-30 15:58:51 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x90111703004779y-80x6855875-latlong"}
+Completed 200 OK in 534ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x58716353094702y-80x86136875-latlong" for ::1 at 2017-03-30 15:59:28 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x58716353094702y-80x86136875-latlong"}
+Completed 200 OK in 195ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x90111703004779y-80x50980625-latlong" for ::1 at 2017-03-30 16:00:02 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x90111703004779y-80x50980625-latlong"}
+Completed 200 OK in 241ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x58716353094702y-81x03715-latlong" for ::1 at 2017-03-30 16:00:34 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x58716353094702y-81x03715-latlong"}
+Completed 200 OK in 1220ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x429862579585688y-81x56449375-latlong" for ::1 at 2017-03-30 16:02:15 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x429862579585688y-81x56449375-latlong"}
+Completed 200 OK in 299ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x05776781957853y-80x86136875-latlong" for ::1 at 2017-03-30 16:02:55 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x05776781957853y-80x86136875-latlong"}
+Completed 200 OK in 559ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x387806822265404y-75x675821875-latlong" for ::1 at 2017-03-30 16:06:00 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x387806822265404y-75x675821875-latlong"}
+Completed 200 OK in 396ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/-51x67350079587102y-59x152384375-latlong" for ::1 at 2017-03-30 16:06:19 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-51x67350079587102y-59x152384375-latlong"}
+Completed 200 OK in 1276ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/9x18736477662186y-67x941446875-latlong" for ::1 at 2017-03-30 16:08:41 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"9x18736477662186y-67x941446875-latlong"}
+Completed 200 OK in 384ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/-22x838351256478745y-43x1123453125-latlong" for ::1 at 2017-03-30 16:09:09 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-22x838351256478745y-43x1123453125-latlong"}
+Completed 200 OK in 1131ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x90111703004779y-81x3887125-latlong" for ::1 at 2017-03-30 16:11:27 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x90111703004779y-81x3887125-latlong"}
+Completed 200 OK in 234ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x822709981350286y-80x86136875-latlong" for ::1 at 2017-03-30 16:11:53 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x822709981350286y-80x86136875-latlong"}
+Completed 200 OK in 213ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x956673629545143y-80x6855875-latlong" for ::1 at 2017-03-30 16:12:51 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x956673629545143y-80x6855875-latlong"}
+Completed 200 OK in 738ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x429862579585688y-81x21293125-latlong" for ::1 at 2017-03-30 16:21:54 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x429862579585688y-81x21293125-latlong"}
+Completed 200 OK in 1441ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x81657665722026y-125x421915625-latlong" for ::1 at 2017-03-30 16:22:24 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x81657665722026y-125x421915625-latlong"}
+Completed 200 OK in 298ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x53098529367718y-119x53324375-latlong" for ::1 at 2017-03-30 16:22:27 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x53098529367718y-119x53324375-latlong"}
+Completed 200 OK in 299ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x744248642089303y-81x21293125-latlong" for ::1 at 2017-03-30 16:23:55 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x744248642089303y-81x21293125-latlong"}
+Completed 200 OK in 199ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x90111703004779y-80x86136875-latlong" for ::1 at 2017-03-30 16:27:06 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x90111703004779y-80x86136875-latlong"}
+Completed 200 OK in 396ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x17256186466618y-77x69730625-latlong" for ::1 at 2017-03-30 16:30:44 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x17256186466618y-77x69730625-latlong"}
+Completed 200 OK in 369ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x744248642089303y-81x300821875-latlong" for ::1 at 2017-03-30 16:30:50 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x744248642089303y-81x300821875-latlong"}
+Completed 200 OK in 206ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/38x6843194518634y-8x087931249999997-latlong" for ::1 at 2017-03-30 16:31:32 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"38x6843194518634y-8x087931249999997-latlong"}
+Completed 200 OK in 1286ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x90111703004779y-81x56449375-latlong" for ::1 at 2017-03-30 16:32:13 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x90111703004779y-81x56449375-latlong"}
+Completed 200 OK in 236ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/14x60337154915287y-86x83793125-latlong" for ::1 at 2017-03-30 16:32:19 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"14x60337154915287y-86x83793125-latlong"}
+Completed 200 OK in 1242ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x429862579585688y-81x3887125-latlong" for ::1 at 2017-03-30 16:32:55 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x429862579585688y-81x3887125-latlong"}
+Completed 200 OK in 222ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/34x740359454970076y-78x5762125-latlong" for ::1 at 2017-03-30 16:33:29 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"34x740359454970076y-78x5762125-latlong"}
+Completed 200 OK in 1091ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x05776781957853y-81x56449375-latlong" for ::1 at 2017-03-30 16:33:55 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x05776781957853y-81x56449375-latlong"}
+Completed 200 OK in 271ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/9x967348754714532y-84x02543125-latlong" for ::1 at 2017-03-30 16:34:19 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"9x967348754714532y-84x02543125-latlong"}
+Completed 200 OK in 1122ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/20x301987382039833y-97x91215199999999-latlong" for ::1 at 2017-03-30 16:34:58 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"20x301987382039833y-97x91215199999999-latlong"}
+Completed 200 OK in 233ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x37041314100878y-81x03715-latlong" for ::1 at 2017-03-30 16:35:31 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x37041314100878y-81x03715-latlong"}
+Completed 200 OK in 405ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x37041314100878y-81x21293125-latlong" for ::1 at 2017-03-30 16:35:56 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x37041314100878y-81x21293125-latlong"}
+Completed 200 OK in 215ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x429862579585688y-81x03715-latlong" for ::1 at 2017-03-30 16:36:25 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x429862579585688y-81x03715-latlong"}
+Completed 200 OK in 190ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x744248642089303y-81x21293125-latlong" for ::1 at 2017-03-30 16:36:42 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x744248642089303y-81x21293125-latlong"}
+Completed 200 OK in 219ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x956673629545143y-80x86136875-latlong" for ::1 at 2017-03-30 16:37:02 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x956673629545143y-80x86136875-latlong"}
+Completed 200 OK in 653ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/36x45540953624087y-77x34574375-latlong" for ::1 at 2017-03-30 16:38:25 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"36x45540953624087y-77x34574375-latlong"}
+Completed 200 OK in 287ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/36x03009860892089y-76x8184-latlong" for ::1 at 2017-03-30 16:38:28 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"36x03009860892089y-76x8184-latlong"}
+Completed 200 OK in 210ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/29x07404246076655y-81x03715-latlong" for ::1 at 2017-03-30 16:38:30 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"29x07404246076655y-81x03715-latlong"}
+Completed 200 OK in 1424ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x17256186466618y-77x1699625-latlong" for ::1 at 2017-03-30 16:38:33 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x17256186466618y-77x1699625-latlong"}
+Completed 200 OK in 340ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/38x40936338272729y-6x857462499999997-latlong" for ::1 at 2017-03-30 16:38:38 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"38x40936338272729y-6x857462499999997-latlong"}
+Completed 200 OK in 282ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/36x03009860892089y-76x4668375-latlong" for ::1 at 2017-03-30 16:39:18 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"36x03009860892089y-76x4668375-latlong"}
+Completed 200 OK in 201ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/29x227559301617934y-82x0918375-latlong" for ::1 at 2017-03-30 16:39:21 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"29x227559301617934y-82x0918375-latlong"}
+Completed 200 OK in 247ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x90111703004779y-80x86136875-latlong" for ::1 at 2017-03-30 16:39:26 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x90111703004779y-80x86136875-latlong"}
+Completed 200 OK in 175ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/34x740359454970076y-79x2793375-latlong" for ::1 at 2017-03-30 16:39:31 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"34x740359454970076y-79x2793375-latlong"}
+Completed 200 OK in 305ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/36x45540953624087y-76x64261875-latlong" for ::1 at 2017-03-30 16:39:37 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"36x45540953624087y-76x64261875-latlong"}
+Completed 200 OK in 1675ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/37x99496099078156y-77x8730875-latlong" for ::1 at 2017-03-30 16:39:45 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"37x99496099078156y-77x8730875-latlong"}
+Completed 200 OK in 1714ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x837727698199963y-81x21293125-latlong" for ::1 at 2017-03-30 16:40:32 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x837727698199963y-81x21293125-latlong"}
+Completed 200 OK in 469ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x90111703004779y-81x03715-latlong" for ::1 at 2017-03-30 16:40:42 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x90111703004779y-81x03715-latlong"}
+Completed 200 OK in 218ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x429862579585688y-81x03715-latlong" for ::1 at 2017-03-30 16:42:42 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x429862579585688y-81x03715-latlong"}
+Completed 200 OK in 246ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x744248642089303y-81x03715-latlong" for ::1 at 2017-03-30 16:45:04 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x744248642089303y-81x03715-latlong"}
+Completed 200 OK in 340ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/23x562589400900475y-81x56449375-latlong" for ::1 at 2017-03-30 16:46:19 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"23x562589400900475y-81x56449375-latlong"}
+Completed 200 OK in 282ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x214200143162415y-81x3887125-latlong" for ::1 at 2017-03-30 16:47:11 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x214200143162415y-81x3887125-latlong"}
+Completed 200 OK in 264ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/30x29570126603032y-6x505899999999997-latlong" for ::1 at 2017-03-30 16:47:41 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"30x29570126603032y-6x505899999999997-latlong"}
+Completed 200 OK in 286ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x837727698199963y-82x4434-latlong" for ::1 at 2017-03-30 16:47:48 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x837727698199963y-82x4434-latlong"}
+Completed 200 OK in 2108ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x837727698199963y-81x3887125-latlong" for ::1 at 2017-03-30 16:47:51 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x837727698199963y-81x3887125-latlong"}
+Completed 200 OK in 277ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x744248642089328y-81x3887125-latlong" for ::1 at 2017-03-30 16:47:57 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x744248642089328y-81x3887125-latlong"}
+Completed 200 OK in 213ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/38x13335715902286y-7x209024999999997-latlong" for ::1 at 2017-03-30 16:53:02 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"38x13335715902286y-7x209024999999997-latlong"}
+Completed 200 OK in 329ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/39x63836329066022y-6x154337499999997-latlong" for ::1 at 2017-03-30 16:54:56 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"39x63836329066022y-6x154337499999997-latlong"}
+Completed 200 OK in 200ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x682177758985294y-9x669962499999997-latlong" for ::1 at 2017-03-30 16:54:59 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x682177758985294y-9x669962499999997-latlong"}
+Completed 200 OK in 188ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/29x533902834393995y37x08785-latlong" for ::1 at 2017-03-30 16:55:01 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"29x533902834393995y37x08785-latlong"}
+Completed 200 OK in 193ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/28x92029658003359y-81x3887125-latlong" for ::1 at 2017-03-30 16:55:03 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"28x92029658003359y-81x3887125-latlong"}
+Completed 200 OK in 1194ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/28x148158692817706y-16x349649999999997-latlong" for ::1 at 2017-03-30 16:55:43 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"28x148158692817706y-16x349649999999997-latlong"}
+Completed 200 OK in 2345ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/20x71358884686486y-76x29105625-latlong" for ::1 at 2017-03-30 16:57:27 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"20x71358884686486y-76x29105625-latlong"}
+Completed 200 OK in 477ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/19x06067662069401y-71x1934-latlong" for ::1 at 2017-03-30 16:57:32 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"19x06067662069401y-71x1934-latlong"}
+Completed 200 OK in 710ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x114616726640374y-81x03715-latlong" for ::1 at 2017-03-30 16:58:59 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x114616726640374y-81x03715-latlong"}
+Completed 200 OK in 288ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x17256186466618y-5x099649999999997-latlong" for ::1 at 2017-03-30 16:59:06 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x17256186466618y-5x099649999999997-latlong"}
+Completed 200 OK in 339ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/34x88468008968408y-77x34574375-latlong" for ::1 at 2017-03-30 16:59:22 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"34x88468008968408y-77x34574375-latlong"}
+Completed 200 OK in 258ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x508539979806947y-80x86136875-latlong" for ::1 at 2017-03-30 16:59:26 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x508539979806947y-80x86136875-latlong"}
+Completed 200 OK in 300ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/20x30198738203986y-75x675821875-latlong" for ::1 at 2017-03-30 16:59:31 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"20x30198738203986y-75x675821875-latlong"}
+Completed 200 OK in 497ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/34x37845407284266y-5x363321874999997-latlong" for ::1 at 2017-03-30 16:59:35 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"34x37845407284266y-5x363321874999997-latlong"}
+Completed 200 OK in 743ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x272346678686205y-80x50980625-latlong" for ::1 at 2017-03-30 17:00:38 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x272346678686205y-80x50980625-latlong"}
+Completed 200 OK in 410ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/20x631357179116627y-76x4668375-latlong" for ::1 at 2017-03-30 17:00:43 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"20x631357179116627y-76x4668375-latlong"}
+Completed 200 OK in 228ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/37x99496099078156y-5x978556249999997-latlong" for ::1 at 2017-03-30 17:00:46 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"37x99496099078156y-5x978556249999997-latlong"}
+Completed 200 OK in 1378ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x272346678686205y37x61519375-latlong" for ::1 at 2017-03-30 17:00:49 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x272346678686205y37x61519375-latlong"}
+Completed 200 OK in 273ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/37x299062280062344y-5x978556249999997-latlong" for ::1 at 2017-03-30 17:00:53 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"37x299062280062344y-5x978556249999997-latlong"}
+Completed 200 OK in 227ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/36x737662127471594y-5x978556249999997-latlong" for ::1 at 2017-03-30 17:01:34 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"36x737662127471594y-5x978556249999997-latlong"}
+Completed 200 OK in 476ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/37x578204028407825y-5x802774999999997-latlong" for ::1 at 2017-03-30 17:01:41 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"37x578204028407825y-5x802774999999997-latlong"}
+Completed 200 OK in 218ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x79851830119613y-80x6855875-latlong" for ::1 at 2017-03-30 17:03:19 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x79851830119613y-80x6855875-latlong"}
+Completed 200 OK in 557ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/37x01888069596321y-5x978556249999997-latlong" for ::1 at 2017-03-30 17:03:23 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"37x01888069596321y-5x978556249999997-latlong"}
+Completed 200 OK in 304ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/28x612120774551713y-13x712931249999997-latlong" for ::1 at 2017-03-30 17:06:11 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"28x612120774551713y-13x712931249999997-latlong"}
+Completed 200 OK in 860ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/36x737662127471594y-5x626993749999997-latlong" for ::1 at 2017-03-30 17:06:15 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"36x737662127471594y-5x626993749999997-latlong"}
+Completed 200 OK in 232ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x90111703004779y-81x3887125-latlong" for ::1 at 2017-03-30 17:07:30 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x90111703004779y-81x3887125-latlong"}
+Completed 200 OK in 826ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x90111703004779y-81x03715-latlong" for ::1 at 2017-03-30 17:07:33 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x90111703004779y-81x03715-latlong"}
+Completed 200 OK in 210ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/34x45096105584436y-117x9512125-latlong" for ::1 at 2017-03-30 17:07:56 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"34x45096105584436y-117x9512125-latlong"}
+Completed 200 OK in 519ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/19x14372765674576y-102x1309-latlong" for ::1 at 2017-03-30 17:08:01 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"19x14372765674576y-102x1309-latlong"}
+Completed 200 OK in 259ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x682177758985294y-98x2637125-latlong" for ::1 at 2017-03-30 17:08:03 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x682177758985294y-98x2637125-latlong"}
+Completed 200 OK in 480ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/42x29243622340089y13x181600000000003-latlong" for ::1 at 2017-03-30 17:08:30 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"42x29243622340089y13x181600000000003-latlong"}
+Completed 200 OK in 788ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x114616726640374y-81x03715-latlong" for ::1 at 2017-03-30 17:10:18 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x114616726640374y-81x03715-latlong"}
+Completed 200 OK in 207ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/29x68672803097476y-81x56449375-latlong" for ::1 at 2017-03-30 17:10:24 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"29x68672803097476y-81x56449375-latlong"}
+Completed 200 OK in 445ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x429862579585688y-81x21293125-latlong" for ::1 at 2017-03-30 17:10:28 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x429862579585688y-81x21293125-latlong"}
+Completed 200 OK in 227ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x05776781957853y-81x3887125-latlong" for ::1 at 2017-03-30 17:11:52 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x05776781957853y-81x3887125-latlong"}
+Completed 200 OK in 453ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/21x77848931415789y-78x927775-latlong" for ::1 at 2017-03-30 17:11:56 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"21x77848931415789y-78x927775-latlong"}
+Completed 200 OK in 336ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/18x977583969741517y-70x8418375-latlong" for ::1 at 2017-03-30 17:11:59 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"18x977583969741517y-70x8418375-latlong"}
+Completed 200 OK in 645ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x272346678686205y-80x6855875-latlong" for ::1 at 2017-03-30 17:12:42 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x272346678686205y-80x6855875-latlong"}
+Completed 200 OK in 253ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x79851830119613y-80x6855875-latlong" for ::1 at 2017-03-30 17:12:44 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x79851830119613y-80x6855875-latlong"}
+Completed 200 OK in 183ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/34x45096105584436y-5x626993749999997-latlong" for ::1 at 2017-03-30 17:13:58 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"34x45096105584436y-5x626993749999997-latlong"}
+Completed 200 OK in 635ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/34x160556388168146y-81x3887125-latlong" for ::1 at 2017-03-30 17:14:27 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"34x160556388168146y-81x3887125-latlong"}
+Completed 200 OK in 440ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x272346678686205y-80x6855875-latlong" for ::1 at 2017-03-30 17:22:55 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x272346678686205y-80x6855875-latlong"}
+Completed 200 OK in 403ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/19x309704270301633y-71x36918125-latlong" for ::1 at 2017-03-30 17:23:01 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"19x309704270301633y-71x36918125-latlong"}
+Completed 200 OK in 258ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/18x311363194298842y-66x886759375-latlong" for ::1 at 2017-03-30 17:23:10 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"18x311363194298842y-66x886759375-latlong"}
+Completed 200 OK in 401ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/18x47816280460066y-68x75443515625-latlong" for ::1 at 2017-03-30 17:23:14 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"18x47816280460066y-68x75443515625-latlong"}
+Completed 200 OK in 257ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/20x322593657354187y-74x68705234375-latlong" for ::1 at 2017-03-30 17:23:16 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"20x322593657354187y-74x68705234375-latlong"}
+Completed 200 OK in 274ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x79851830119613y-81x03715-latlong" for ::1 at 2017-03-30 17:23:21 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x79851830119613y-81x03715-latlong"}
+Completed 200 OK in 735ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x429862579585688y-12x130899999999997-latlong" for ::1 at 2017-03-30 17:23:27 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x429862579585688y-12x130899999999997-latlong"}
+Completed 200 OK in 261ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/34x160556388168146y-5x451212499999997-latlong" for ::1 at 2017-03-30 17:23:29 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"34x160556388168146y-5x451212499999997-latlong"}
+Completed 200 OK in 248ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/37x299062280062344y29x001912500000003-latlong" for ::1 at 2017-03-30 17:23:33 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"37x299062280062344y29x001912500000003-latlong"}
+Completed 200 OK in 320ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/40x57942652567281y-0x3535562499999969-latlong" for ::1 at 2017-03-30 17:23:35 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"40x57942652567281y-0x3535562499999969-latlong"}
+Completed 200 OK in 228ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/28x612120774551713y-13x712931249999997-latlong" for ::1 at 2017-03-30 17:23:39 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"28x612120774551713y-13x712931249999997-latlong"}
+Completed 200 OK in 206ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/28x361059898859747y-13x998575781249997-latlong" for ::1 at 2017-03-30 17:23:46 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"28x361059898859747y-13x998575781249997-latlong"}
+Completed 200 OK in 208ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x876580420278582y-15x580607031249997-latlong" for ::1 at 2017-03-30 17:23:49 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x876580420278582y-15x580607031249997-latlong"}
+Completed 200 OK in 670ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x682177758985294y-12x877970312499997-latlong" for ::1 at 2017-03-30 17:23:52 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x682177758985294y-12x877970312499997-latlong"}
+Completed 200 OK in 254ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x744248642089303y-80x15824375-latlong" for ::1 at 2017-03-30 17:25:40 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x744248642089303y-80x15824375-latlong"}
+Completed 200 OK in 841ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x114616726640374y-81x21293125-latlong" for ::1 at 2017-03-30 17:28:36 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x114616726640374y-81x21293125-latlong"}
+Completed 200 OK in 379ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/21x287953535607592y-77x69730625-latlong" for ::1 at 2017-03-30 17:28:41 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"21x287953535607592y-77x69730625-latlong"}
+Completed 200 OK in 264ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x79851830119613y-80x50980625-latlong" for ::1 at 2017-03-30 17:28:44 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x79851830119613y-80x50980625-latlong"}
+Completed 200 OK in 664ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x272346678686205y-81x21293125-latlong" for ::1 at 2017-03-30 17:29:35 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x272346678686205y-81x21293125-latlong"}
+Completed 200 OK in 256ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/34x45096105584436y-117x77543125-latlong" for ::1 at 2017-03-30 17:29:43 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"34x45096105584436y-117x77543125-latlong"}
+Completed 200 OK in 538ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/36x87840085225739y-121x115275-latlong" for ::1 at 2017-03-30 17:29:46 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"36x87840085225739y-121x115275-latlong"}
+Completed 200 OK in 292ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/40x47922155759675y-124x12552890625-latlong" for ::1 at 2017-03-30 17:29:55 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"40x47922155759675y-124x12552890625-latlong"}
+Completed 200 OK in 375ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/39x975951576733365y-123x07084140625-latlong" for ::1 at 2017-03-30 17:30:25 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"39x975951576733365y-123x07084140625-latlong"}
+Completed 200 OK in 684ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x429862579585688y-80x86136875-latlong" for ::1 at 2017-03-30 17:31:16 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x429862579585688y-80x86136875-latlong"}
+Completed 200 OK in 176ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/40x845906843575776y15x994100000000003-latlong" for ::1 at 2017-03-30 17:31:55 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"40x845906843575776y15x994100000000003-latlong"}
+Completed 200 OK in 1572ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x057767819578558y-80x86136875-latlong" for ::1 at 2017-03-30 17:32:28 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x057767819578558y-80x86136875-latlong"}
+Completed 200 OK in 247ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x744248642089303y-80x86136875-latlong" for ::1 at 2017-03-30 17:32:49 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x744248642089303y-80x86136875-latlong"}
+Completed 200 OK in 840ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/9x274117239331705y-52x38480625-latlong" for ::1 at 2017-03-30 17:33:18 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"9x274117239331705y-52x38480625-latlong"}
+Completed 200 OK in 200ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/-42x42458213731474y-45x8809-latlong" for ::1 at 2017-03-30 17:33:21 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-42x42458213731474y-45x8809-latlong"}
+Completed 200 OK in 197ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/-49x211416609020084y-53x3955484375-latlong" for ::1 at 2017-03-30 17:33:26 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-49x211416609020084y-53x3955484375-latlong"}
+Completed 200 OK in 257ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/-50x430489322277666y-56x31791171875-latlong" for ::1 at 2017-03-30 17:33:29 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-50x430489322277666y-56x31791171875-latlong"}
+Completed 200 OK in 205ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x42055115992951y-81x04460770000003-latlong/40x70491810000001y-74x0133577-latlong" for ::1 at 2017-03-30 18:02:38 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x42055115992951y-81x04460770000003-latlong", "origin"=>"40x70491810000001y-74x0133577-latlong"}
+Completed 200 OK in 519ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/31x792759334152944y-5x810232700000029-latlong/40x70491810000001y-74x0133577-latlong" for ::1 at 2017-03-30 18:03:01 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"31x792759334152944y-5x810232700000029-latlong", "origin"=>"40x70491810000001y-74x0133577-latlong"}
+Completed 200 OK in 345ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/32x3884484086674y-8x446951450000029-latlong/40x70491810000001y-74x0133577-latlong" for ::1 at 2017-03-30 18:03:05 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"32x3884484086674y-8x446951450000029-latlong", "origin"=>"40x70491810000001y-74x0133577-latlong"}
+Completed 200 OK in 517ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x673009419457273y-81x39621869999996-latlong/40x7049521y-74x01340619999999-latlong" for ::1 at 2017-03-30 18:06:34 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x673009419457273y-81x39621869999996-latlong", "origin"=>"40x7049521y-74x01340619999999-latlong"}
+Completed 200 OK in 431ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x263062792841616y-81x04465619999996-latlong/40x7049521y-74x01340619999999-latlong" for ::1 at 2017-03-30 18:06:38 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x263062792841616y-81x04465619999996-latlong", "origin"=>"40x7049521y-74x01340619999999-latlong"}
+Completed 200 OK in 214ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x45099469686413y-76x82590619999996-latlong/40x7049521y-74x01340619999999-latlong" for ::1 at 2017-03-30 18:06:42 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x45099469686413y-76x82590619999996-latlong", "origin"=>"40x7049521y-74x01340619999999-latlong"}
+Completed 200 OK in 309ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/38x984339795901136y-76x25461713749996-latlong/40x7049521y-74x01340619999999-latlong" for ::1 at 2017-03-30 18:06:50 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"38x984339795901136y-76x25461713749996-latlong", "origin"=>"40x7049521y-74x01340619999999-latlong"}
+Completed 200 OK in 258ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x105382214370238y-81x39626570000001-latlong/40x7050044y-74x0134532-latlong" for ::1 at 2017-03-30 18:07:04 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x105382214370238y-81x39626570000001-latlong", "origin"=>"40x7050044y-74x0134532-latlong"}
+Completed 200 OK in 195ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x105382214370238y-80x69314070000001-latlong/40x7050044y-74x0134532-latlong" for ::1 at 2017-03-30 18:07:10 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x105382214370238y-80x69314070000001-latlong", "origin"=>"40x7050044y-74x0134532-latlong"}
+Completed 200 OK in 277ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x361277112649994y-81x22048654999998-latlong/40x7050019y-74x01345529999999-latlong" for ::1 at 2017-03-30 18:07:20 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x361277112649994y-81x22048654999998-latlong", "origin"=>"40x7050019y-74x01345529999999-latlong"}
+Completed 200 OK in 425ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x30777140064904y-76x47440899999992-latlong/40x7050427y-74x0134715-latlong" for ::1 at 2017-03-30 18:11:02 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x30777140064904y-76x47440899999992-latlong", "origin"=>"40x7050427y-74x0134715-latlong"}
+Completed 200 OK in 207ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x73510954615881y-81x22050274999992-latlong/40x7050427y-74x0134715-latlong" for ::1 at 2017-03-30 18:11:29 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x73510954615881y-81x22050274999992-latlong", "origin"=>"40x7050427y-74x0134715-latlong"}
+Completed 200 OK in 443ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x577971026509918y-81x22058604999995-latlong/40x7050081y-74x0135548-latlong" for ::1 at 2017-03-30 18:12:42 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x577971026509918y-81x22058604999995-latlong", "origin"=>"40x7050081y-74x0135548-latlong"}
+Completed 200 OK in 263ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/33x12766633974429y-5x634591750000027-latlong/40x705008y-74x013498-latlong" for ::1 at 2017-03-30 18:13:24 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"33x12766633974429y-5x634591750000027-latlong", "origin"=>"40x705008y-74x013498-latlong"}
+Completed 200 OK in 255ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/39x35915297497825y-8x095529250000027-latlong/40x705008y-74x013498-latlong" for ::1 at 2017-03-30 18:13:26 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"39x35915297497825y-8x095529250000027-latlong", "origin"=>"40x705008y-74x013498-latlong"}
+Completed 200 OK in 246ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/42x67375732684676y-7x743966750000027-latlong/40x705008y-74x013498-latlong" for ::1 at 2017-03-30 18:13:32 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"42x67375732684676y-7x743966750000027-latlong", "origin"=>"40x705008y-74x013498-latlong"}
+Completed 200 OK in 671ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/52x15321271122456y-1x2400605000000269-latlong/40x705008y-74x013498-latlong" for ::1 at 2017-03-30 18:13:38 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"52x15321271122456y-1x2400605000000269-latlong", "origin"=>"40x705008y-74x013498-latlong"}
+Completed 200 OK in 808ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/53x00768120402746y-6x689279250000027-latlong/40x705008y-74x013498-latlong" for ::1 at 2017-03-30 18:13:41 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"53x00768120402746y-6x689279250000027-latlong", "origin"=>"40x705008y-74x013498-latlong"}
+Completed 200 OK in 1429ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x891890103973072y-81x39618510000008-latlong/40x7049573y-74x0133726-latlong" for ::1 at 2017-03-30 18:14:27 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x891890103973072y-81x39618510000008-latlong", "origin"=>"40x7049573y-74x0133726-latlong"}
+Completed 200 OK in 350ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x04862210078528y-81x22050445000002-latlong/40x705015499999995y-74x01347319999999-latlong" for ::1 at 2017-03-30 18:15:10 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x04862210078528y-81x22050445000002-latlong", "origin"=>"40x705015499999995y-74x01347319999999-latlong"}
+Completed 200 OK in 228ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/34x587332355295764y-5x986129450000021-latlong/40x705015499999995y-74x01347319999999-latlong" for ::1 at 2017-03-30 18:15:15 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"34x587332355295764y-5x986129450000021-latlong", "origin"=>"40x705015499999995y-74x01347319999999-latlong"}
+Completed 200 OK in 291ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/40x571626454614254y15x986526799999979-latlong/40x705015499999995y-74x01347319999999-latlong" for ::1 at 2017-03-30 18:15:19 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"40x571626454614254y15x986526799999979-latlong", "origin"=>"40x705015499999995y-74x01347319999999-latlong"}
+Completed 200 OK in 528ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x789272143134625y-80x69316070000002-latlong/40x705015499999995y-74x01347319999999-latlong" for ::1 at 2017-03-30 18:15:30 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x789272143134625y-80x69316070000002-latlong", "origin"=>"40x705015499999995y-74x01347319999999-latlong"}
+Completed 200 OK in 479ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x361238217165663y-81x57208885-latlong/40x704968699999995y-74x0134951-latlong" for ::1 at 2017-03-30 19:12:50 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x361238217165663y-81x57208885-latlong", "origin"=>"40x704968699999995y-74x0134951-latlong"}
+Completed 200 OK in 303ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x144795564602916y-80x6492372875-latlong/40x704968699999995y-74x0134951-latlong" for ::1 at 2017-03-30 19:12:58 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x144795564602916y-80x6492372875-latlong", "origin"=>"40x704968699999995y-74x0134951-latlong"}
+Completed 200 OK in 222ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x47224817416041y-80x51740135-latlong/40x704968699999995y-74x0134951-latlong" for ::1 at 2017-03-30 19:13:05 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x47224817416041y-80x51740135-latlong", "origin"=>"40x704968699999995y-74x0134951-latlong"}
+Completed 200 OK in 646ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/24x67620919762444y-99x32595359999999-latlong/40x7049934y-74x01345359999999-latlong" for ::1 at 2017-03-30 19:17:02 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"24x67620919762444y-99x32595359999999-latlong", "origin"=>"40x7049934y-74x01345359999999-latlong"}
+Completed 200 OK in 247ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/21x114468468664864y-99x32595359999999-latlong/40x7049934y-74x01345359999999-latlong" for ::1 at 2017-03-30 19:17:05 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"21x114468468664864y-99x32595359999999-latlong", "origin"=>"40x7049934y-74x01345359999999-latlong"}
+Completed 200 OK in 194ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x451039076827385y-119x01345359999999-latlong/40x7049934y-74x01345359999999-latlong" for ::1 at 2017-03-30 19:17:10 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x451039076827385y-119x01345359999999-latlong", "origin"=>"40x7049934y-74x01345359999999-latlong"}
+Completed 200 OK in 252ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x51707834385304y-81x04454310000006-latlong/40x704827099999996y-74x0132931-latlong" for ::1 at 2017-03-30 19:20:01 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x51707834385304y-81x04454310000006-latlong", "origin"=>"40x704827099999996y-74x0132931-latlong"}
+Completed 200 OK in 377ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x420419085573194y-81x04452779999997-latlong/40x7048063y-74x0132778-latlong" for ::1 at 2017-03-30 19:20:58 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x420419085573194y-81x04452779999997-latlong", "origin"=>"40x7048063y-74x0132778-latlong"}
+Completed 200 OK in 327ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x450838023797914y-119x18905904999997-latlong/40x7048063y-74x0132778-latlong" for ::1 at 2017-03-30 19:21:07 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x450838023797914y-119x18905904999997-latlong", "origin"=>"40x7048063y-74x0132778-latlong"}
+Completed 200 OK in 448ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/47x98184584688992y-1x4156291499999725-latlong/40x7048096y-74x0132854-latlong" for ::1 at 2017-03-30 19:21:38 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"47x98184584688992y-1x4156291499999725-latlong", "origin"=>"40x7048096y-74x0132854-latlong"}
+Completed 200 OK in 325ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x57773460879562y-81x3960836-latlong/40x704807699999996y-74x0132711-latlong" for ::1 at 2017-03-30 19:22:16 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x57773460879562y-81x3960836-latlong", "origin"=>"40x704807699999996y-74x0132711-latlong"}
+Completed 200 OK in 563ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/19x950449383089836y-155x37828860000002-latlong/40x9615028y-73x81578859999999-latlong" for ::1 at 2017-03-30 21:20:30 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"19x950449383089836y-155x37828860000002-latlong", "origin"=>"40x9615028y-73x81578859999999-latlong"}
+Completed 200 OK in 1334ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/19x536831291187752y-155x57604450625007-latlong/40x9615028y-73x81578859999999-latlong" for ::1 at 2017-03-30 21:20:44 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"19x536831291187752y-155x57604450625007-latlong", "origin"=>"40x9615028y-73x81578859999999-latlong"}
+Completed 200 OK in 234ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x36918574842212y-119x36510900625012-latlong/40x9615028y-73x81578859999999-latlong" for ::1 at 2017-03-30 21:20:50 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x36918574842212y-119x36510900625012-latlong", "origin"=>"40x9615028y-73x81578859999999-latlong"}
+Completed 200 OK in 249ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/39x620764434788796y-7x7221633999999995-latlong/40x9614938y-73x8159134-latlong" for ::1 at 2017-03-30 21:21:04 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"39x620764434788796y-7x7221633999999995-latlong", "origin"=>"40x9614938y-73x8159134-latlong"}
+Completed 200 OK in 426ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/48x091152504018666y-0x33935089999999946-latlong/40x9614938y-73x8159134-latlong" for ::1 at 2017-03-30 21:21:07 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"48x091152504018666y-0x33935089999999946-latlong", "origin"=>"40x9614938y-73x8159134-latlong"}
+Completed 200 OK in 222ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/46x66286869551132y-0x8666946499999995-latlong/40x9614938y-73x8159134-latlong" for ::1 at 2017-03-30 21:21:10 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"46x66286869551132y-0x8666946499999995-latlong", "origin"=>"40x9614938y-73x8159134-latlong"}
+Completed 200 OK in 269ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/52x7880227128486y-7x5463821499999995-latlong/40x9614938y-73x8159134-latlong" for ::1 at 2017-03-30 21:21:16 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"52x7880227128486y-7x5463821499999995-latlong", "origin"=>"40x9614938y-73x8159134-latlong"}
+Completed 200 OK in 320ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x25182529123386y-81x02290805000007-latlong/40x9614687y-73x8158768-latlong" for ::1 at 2017-03-30 21:32:01 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x25182529123386y-81x02290805000007-latlong", "origin"=>"40x9614687y-73x8158768-latlong"}
+Completed 200 OK in 1483ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x85703177455581y-80x58345492500007-latlong/40x9614687y-73x8158768-latlong" for ::1 at 2017-03-30 21:32:12 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x85703177455581y-80x58345492500007-latlong", "origin"=>"40x9614687y-73x8158768-latlong"}
+Completed 200 OK in 826ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x094163394892302y-80x84712119999995-latlong/40x9615493y-73x8158712-latlong" for ::1 at 2017-03-30 22:03:38 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x094163394892302y-80x84712119999995-latlong", "origin"=>"40x9615493y-73x8158712-latlong"}
+Completed 200 OK in 421ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x25188122980681y-81x02288475-latlong/40x9615158y-73x8158535-latlong" for ::1 at 2017-03-30 22:04:33 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x25188122980681y-81x02288475-latlong", "origin"=>"40x9615158y-73x8158535-latlong"}
+Completed 200 OK in 303ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x46097177142035y-80x67132225-latlong/40x9615158y-73x8158535-latlong" for ::1 at 2017-03-30 22:04:36 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x46097177142035y-80x67132225-latlong", "origin"=>"40x9615158y-73x8158535-latlong"}
+Completed 200 OK in 1098ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x409408485154977y-81x19871790000002-latlong/40x961501899999995y-73x81590539999999-latlong" for ::1 at 2017-03-30 22:22:32 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x409408485154977y-81x19871790000002-latlong", "origin"=>"40x961501899999995y-73x81590539999999-latlong"}
+Started GET "/flights/25x777953463091606y-80x67137415000002-latlong/40x961501899999995y-73x81590539999999-latlong" for ::1 at 2017-03-30 22:22:35 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x777953463091606y-80x67137415000002-latlong", "origin"=>"40x961501899999995y-73x81590539999999-latlong"}
+Completed 200 OK in 202ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 7659ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x094084665624035y-80x84708899999998-latlong/40x961483099999995y-73x815839-latlong" for ::1 at 2017-03-30 22:28:13 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x094084665624035y-80x84708899999998-latlong", "origin"=>"40x961483099999995y-73x815839-latlong"}
+Completed 200 OK in 396ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x56669998804369y-81x19868510000003-latlong/40x961470299999995y-73x81587259999999-latlong" for ::1 at 2017-03-30 22:29:16 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x56669998804369y-81x19868510000003-latlong", "origin"=>"40x961470299999995y-73x81587259999999-latlong"}
+Completed 200 OK in 215ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x4094001828718y-81x19867799999997-latlong/40x9614949y-73x8158655-latlong" for ::1 at 2017-03-30 22:30:19 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x4094001828718y-81x19867799999997-latlong", "origin"=>"40x9614949y-73x8158655-latlong"}
+Completed 200 OK in 389ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x72380792253709y-81x3745307499999-latlong/40x9614658y-73x81593699999999-latlong" for ::1 at 2017-03-30 22:32:02 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x72380792253709y-81x3745307499999-latlong", "origin"=>"40x9614658y-73x81593699999999-latlong"}
+Completed 200 OK in 313ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x094049701274557y-80x49541169999998-latlong/40x9614537y-73x81572419999999-latlong" for ::1 at 2017-03-30 22:32:38 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x094049701274557y-80x49541169999998-latlong", "origin"=>"40x9614537y-73x81572419999999-latlong"}
+Completed 200 OK in 824ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x777946546825763y-80x49545879999994-latlong/40x9614961y-73x8157713-latlong" for ::1 at 2017-03-30 22:33:08 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x777946546825763y-80x49545879999994-latlong", "origin"=>"40x9614961y-73x8157713-latlong"}
+Completed 200 OK in 237ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x936111767594717y-81x59412901249999-latlong/40x961481299999996y-73x81580869999999-latlong" for ::1 at 2017-03-30 22:37:38 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x936111767594717y-81x59412901249999-latlong", "origin"=>"40x961481299999996y-73x81580869999999-latlong"}
+Completed 200 OK in 1723ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x89658589988154y-80x23182432499999-latlong/40x961481299999996y-73x81580869999999-latlong" for ::1 at 2017-03-30 22:37:43 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x89658589988154y-80x23182432499999-latlong", "origin"=>"40x961481299999996y-73x81580869999999-latlong"}
+Completed 200 OK in 221ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x56658273064114y-80x67111064999995-latlong/40x961371299999996y-73x81564190000002-latlong" for ::1 at 2017-03-30 22:40:45 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x56658273064114y-80x67111064999995-latlong", "origin"=>"40x961371299999996y-73x81564190000002-latlong"}
+Completed 200 OK in 430ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/12x015321909696334y-84x88986064999995-latlong/40x961371299999996y-73x81564190000002-latlong" for ::1 at 2017-03-30 22:40:48 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"12x015321909696334y-84x88986064999995-latlong", "origin"=>"40x961371299999996y-73x81564190000002-latlong"}
+Completed 200 OK in 243ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/19x28798498355174y-71x00314189999995-latlong/40x961371299999996y-73x81564190000002-latlong" for ::1 at 2017-03-30 22:40:52 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"19x28798498355174y-71x00314189999995-latlong", "origin"=>"40x961371299999996y-73x81564190000002-latlong"}
+Completed 200 OK in 272ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x460799003285384y-80x49532939999995-latlong/40x961371299999996y-73x81564190000002-latlong" for ::1 at 2017-03-30 22:40:54 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x460799003285384y-80x49532939999995-latlong", "origin"=>"40x961371299999996y-73x81564190000002-latlong"}
+Completed 200 OK in 253ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x972891913124116y-82x25334039999996-latlong/40x96150720000001y-73x81584040000001-latlong" for ::1 at 2017-03-30 22:47:20 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x972891913124116y-82x25334039999996-latlong", "origin"=>"40x96150720000001y-73x81584040000001-latlong"}
+Completed 200 OK in 1301ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x09411332688032y-81x02287164999996-latlong/40x96150720000001y-73x81584040000001-latlong" for ::1 at 2017-03-30 22:47:23 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x09411332688032y-81x02287164999996-latlong", "origin"=>"40x96150720000001y-73x81584040000001-latlong"}
+Completed 200 OK in 211ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x460961489022502y-80x8031450874999-latlong/40x96150720000001y-73x81584040000001-latlong" for ::1 at 2017-03-30 22:47:30 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x460961489022502y-80x8031450874999-latlong", "origin"=>"40x96150720000001y-73x81584040000001-latlong"}
+Completed 200 OK in 249ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x25182362851641y-81x02282694999997-latlong/40x961467299999995y-73x8157957-latlong" for ::1 at 2017-03-30 22:48:17 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x25182362851641y-81x02282694999997-latlong", "origin"=>"40x961467299999995y-73x8157957-latlong"}
+Completed 200 OK in 308ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x3815330592242y-80x75915507499997-latlong/40x961467299999995y-73x8157957-latlong" for ::1 at 2017-03-30 22:48:21 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x3815330592242y-80x75915507499997-latlong", "origin"=>"40x961467299999995y-73x8157957-latlong"}
+Completed 200 OK in 220ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x566737652554558y-80x67125835000002-latlong/40x9615021y-73x8157896-latlong" for ::1 at 2017-03-30 23:01:19 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x566737652554558y-80x67125835000002-latlong", "origin"=>"40x9615021y-73x8157896-latlong"}
+Completed 200 OK in 447ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x193900043901746y-81x02283105000004-latlong/40x961512899999995y-73x81579980000001-latlong" for ::1 at 2017-03-30 23:02:12 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x193900043901746y-81x02283105000004-latlong", "origin"=>"40x961512899999995y-73x81579980000001-latlong"}
+Completed 200 OK in 291ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x566750444276543y-80x84704980000004-latlong/40x961512899999995y-73x81579980000001-latlong" for ::1 at 2017-03-30 23:02:16 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x566750444276543y-80x84704980000004-latlong", "origin"=>"40x961512899999995y-73x81579980000001-latlong"}
+Completed 200 OK in 210ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/28x900316177236803y-82x07751855000004-latlong/40x961512899999995y-73x81579980000001-latlong" for ::1 at 2017-03-30 23:02:17 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"28x900316177236803y-82x07751855000004-latlong", "origin"=>"40x961512899999995y-73x81579980000001-latlong"}
+Completed 200 OK in 729ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x880812772065337y-81x37448745-latlong/40x9615574y-73x8158937-latlong" for ::1 at 2017-03-30 23:03:21 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x880812772065337y-81x37448745-latlong", "origin"=>"40x9615574y-73x8158937-latlong"}
+Completed 200 OK in 211ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x09404708489486y-81x198847-latlong/40x961451499999995y-73x81603450000001-latlong" for ::1 at 2017-03-30 23:04:36 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x09404708489486y-81x198847-latlong", "origin"=>"40x961451499999995y-73x81603450000001-latlong"}
+Completed 200 OK in 298ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x7778933631331y-81x198847-latlong/40x961451499999995y-73x81603450000001-latlong" for ::1 at 2017-03-30 23:04:41 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x7778933631331y-81x198847-latlong", "origin"=>"40x961451499999995y-73x81603450000001-latlong"}
+Completed 200 OK in 209ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/10x80930935150347y-169x96837825-latlong/40x961451499999995y-73x81603450000001-latlong" for ::1 at 2017-03-30 23:04:45 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"10x80930935150347y-169x96837825-latlong", "origin"=>"40x961451499999995y-73x81603450000001-latlong"}
+Completed 200 OK in 233ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/19x702343098305853y-155x466425125-latlong/40x961451499999995y-73x81603450000001-latlong" for ::1 at 2017-03-30 23:04:50 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"19x702343098305853y-155x466425125-latlong", "origin"=>"40x961451499999995y-73x81603450000001-latlong"}
+Completed 200 OK in 408ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/21x266608727737623y-157x839472-latlong/40x961451499999995y-73x81603450000001-latlong" for ::1 at 2017-03-30 23:04:57 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"21x266608727737623y-157x839472-latlong", "origin"=>"40x961451499999995y-73x81603450000001-latlong"}
+Completed 200 OK in 1538ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x19393137511822y-81x90176659999992-latlong/40x9615395y-73x8158291-latlong" for ::1 at 2017-03-30 23:05:27 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x19393137511822y-81x90176659999992-latlong", "origin"=>"40x9615395y-73x8158291-latlong"}
+Completed 200 OK in 249ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x25190937724652y-80x67129784999992-latlong/40x9615395y-73x8158291-latlong" for ::1 at 2017-03-30 23:05:33 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x25190937724652y-80x67129784999992-latlong", "origin"=>"40x9615395y-73x8158291-latlong"}
+Completed 200 OK in 262ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x857116144317075y-80x49551659999992-latlong/40x9615395y-73x8158291-latlong" for ::1 at 2017-03-30 23:05:35 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x857116144317075y-80x49551659999992-latlong", "origin"=>"40x9615395y-73x8158291-latlong"}
+Completed 200 OK in 294ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x72673590595373y-76x10092244999998-latlong/40x9615023y-73x8157662-latlong" for ::1 at 2017-03-30 23:06:03 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x72673590595373y-76x10092244999998-latlong", "origin"=>"40x9615023y-73x8157662-latlong"}
+Completed 200 OK in 225ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/37x28089209327772y-77x33139119999998-latlong/40x9615023y-73x8157662-latlong" for ::1 at 2017-03-30 23:06:06 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"37x28089209327772y-77x33139119999998-latlong", "origin"=>"40x9615023y-73x8157662-latlong"}
+Completed 200 OK in 1204ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/37x69931543692996y-76x62826619999998-latlong/40x9615023y-73x8157662-latlong" for ::1 at 2017-03-30 23:06:09 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"37x69931543692996y-76x62826619999998-latlong", "origin"=>"40x9615023y-73x8157662-latlong"}
+Completed 200 OK in 254ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/37x00064305465713y-77x15560994999998-latlong/40x9615023y-73x8157662-latlong" for ::1 at 2017-03-30 23:06:11 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"37x00064305465713y-77x15560994999998-latlong", "origin"=>"40x9615023y-73x8157662-latlong"}
+Completed 200 OK in 209ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x566777567467042y-81x02291854999999-latlong/40x9615358y-73x8158873-latlong" for ::1 at 2017-03-30 23:07:19 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x566777567467042y-81x02291854999999-latlong", "origin"=>"40x9615358y-73x8158873-latlong"}
+Completed 200 OK in 243ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x29743919072753y-76x27679470000004-latlong/40x9614609y-73x8158572-latlong" for ::1 at 2017-03-30 23:08:07 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x29743919072753y-76x27679470000004-latlong", "origin"=>"40x9614609y-73x8158572-latlong"}
+Completed 200 OK in 455ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/36x153642886639915y-76x27679470000004-latlong/40x9614609y-73x8158572-latlong" for ::1 at 2017-03-30 23:08:09 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"36x153642886639915y-76x27679470000004-latlong", "origin"=>"40x9614609y-73x8158572-latlong"}
+Completed 200 OK in 399ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x566688854510147y-81x19866970000004-latlong/40x9614609y-73x8158572-latlong" for ::1 at 2017-03-30 23:08:12 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x566688854510147y-81x19866970000004-latlong", "origin"=>"40x9614609y-73x8158572-latlong"}
+Completed 200 OK in 220ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/38x528976155172025y-5x43692575-latlong/40x9613747y-73x815832-latlong" for ::1 at 2017-03-30 23:08:59 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"38x528976155172025y-5x43692575-latlong", "origin"=>"40x9613747y-73x815832-latlong"}
+Completed 200 OK in 217ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/34x28687664781451y-5x9642695-latlong/40x9613747y-73x815832-latlong" for ::1 at 2017-03-30 23:09:00 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"34x28687664781451y-5x9642695-latlong", "origin"=>"40x9613747y-73x815832-latlong"}
+Completed 200 OK in 292ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/36x01164280179611y-76x45252065-latlong/40x9615176y-73x8158019-latlong" for ::1 at 2017-03-30 23:09:30 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"36x01164280179611y-76x45252065-latlong", "origin"=>"40x9615176y-73x8158019-latlong"}
+Completed 200 OK in 372ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/31x18258080998643y-7x722051899999997-latlong/40x9615176y-73x8158019-latlong" for ::1 at 2017-03-30 23:09:32 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"31x18258080998643y-7x722051899999997-latlong", "origin"=>"40x9615176y-73x8158019-latlong"}
+Completed 200 OK in 604ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x193843741950936y-81x02300694999991-latlong/40x9614651y-73x8159757-latlong" for ::1 at 2017-03-30 23:10:17 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x193843741950936y-81x02300694999991-latlong", "origin"=>"40x9614651y-73x8159757-latlong"}
+Completed 200 OK in 212ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x409364838869408y-81x02300694999991-latlong/40x9614651y-73x8159757-latlong" for ::1 at 2017-03-30 23:10:19 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x409364838869408y-81x02300694999991-latlong", "origin"=>"40x9614651y-73x8159757-latlong"}
+Completed 200 OK in 223ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x409435882691493y-80x49553930000008-latlong/40x961524999999995y-73x81585179999999-latlong" for ::1 at 2017-03-30 23:13:28 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x409435882691493y-80x49553930000008-latlong", "origin"=>"40x961524999999995y-73x81585179999999-latlong"}
+Completed 200 OK in 757ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x409435882691493y-81x37444555000008-latlong/40x961524999999995y-73x81585179999999-latlong" for ::1 at 2017-03-30 23:13:31 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x409435882691493y-81x37444555000008-latlong", "origin"=>"40x961524999999995y-73x81585179999999-latlong"}
+Completed 200 OK in 216ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x56669335530025y-81x1987825-latlong/40x9614647y-73x81597-latlong" for ::1 at 2017-03-30 23:17:21 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x56669335530025y-81x1987825-latlong", "origin"=>"40x9614647y-73x81597-latlong"}
+Completed 200 OK in 319ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x094062783173435y-81x72612625-latlong/40x9614647y-73x81597-latlong" for ::1 at 2017-03-30 23:17:23 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x094062783173435y-81x72612625-latlong", "origin"=>"40x9614647y-73x81597-latlong"}
+Completed 200 OK in 201ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x56669335530025y-81x02300125-latlong/40x9614647y-73x81597-latlong" for ::1 at 2017-03-30 23:17:25 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x56669335530025y-81x02300125-latlong", "origin"=>"40x9614647y-73x81597-latlong"}
+Completed 200 OK in 223ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/28x127975100744262y-18x269094999999993-latlong/40x9614647y-73x81597-latlong" for ::1 at 2017-03-30 23:17:27 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"28x127975100744262y-18x269094999999993-latlong", "origin"=>"40x9614647y-73x81597-latlong"}
+Completed 200 OK in 230ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x193886498452216y-81x02295744999998-latlong/40x961501399999996y-73x81592619999999-latlong" for ::1 at 2017-03-30 23:17:57 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x193886498452216y-81x02295744999998-latlong", "origin"=>"40x961501399999996y-73x81592619999999-latlong"}
+Completed 200 OK in 202ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x61955884027152y-81x19873869999998-latlong/40x961501399999996y-73x81592619999999-latlong" for ::1 at 2017-03-30 23:18:01 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x61955884027152y-81x19873869999998-latlong", "origin"=>"40x961501399999996y-73x81592619999999-latlong"}
+Completed 200 OK in 325ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/22x40881684895009y-8x952644949999922-latlong/40x961501399999996y-73x81592619999999-latlong" for ::1 at 2017-03-30 23:18:03 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"22x40881684895009y-8x952644949999922-latlong", "origin"=>"40x961501399999996y-73x81592619999999-latlong"}
+Completed 200 OK in 245ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/24x02413102820168y-65x90583055000002-latlong/40x9614348y-73x81598679999999-latlong" for ::1 at 2017-03-30 23:21:52 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"24x02413102820168y-65x90583055000002-latlong", "origin"=>"40x9614348y-73x81598679999999-latlong"}
+Completed 200 OK in 1422ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/32x377866589060794y-76x80426805000002-latlong/40x9614348y-73x81598679999999-latlong" for ::1 at 2017-03-30 23:21:54 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"32x377866589060794y-76x80426805000002-latlong", "origin"=>"40x9614348y-73x81598679999999-latlong"}
+Completed 200 OK in 210ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/28x28284890885102y-32x68317430000002-latlong/40x9614348y-73x81598679999999-latlong" for ::1 at 2017-03-30 23:21:56 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"28x28284890885102y-32x68317430000002-latlong", "origin"=>"40x9614348y-73x81598679999999-latlong"}
+Completed 200 OK in 392ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/20x774339806153797y-2x6245805500000188-latlong/40x9614348y-73x81598679999999-latlong" for ::1 at 2017-03-30 23:21:57 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"20x774339806153797y-2x6245805500000188-latlong", "origin"=>"40x9614348y-73x81598679999999-latlong"}
+Completed 200 OK in 226ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x661980695529728y-71x53067395000005-latlong/40x961527499999995y-73x8158302-latlong" for ::1 at 2017-03-30 23:22:22 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x661980695529728y-71x53067395000005-latlong", "origin"=>"40x961527499999995y-73x8158302-latlong"}
+Completed 200 OK in 214ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x094107023782165y-73x11266440000003-latlong/40x961501899999995y-73x8157894-latlong" for ::1 at 2017-03-30 23:23:10 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x094107023782165y-73x11266440000003-latlong", "origin"=>"40x961501899999995y-73x8157894-latlong"}
+Completed 200 OK in 232ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/31x3328571327012y-68x54232760000008-latlong/40x961527499999995y-73x8157651-latlong" for ::1 at 2017-03-30 23:23:39 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"31x3328571327012y-68x54232760000008-latlong", "origin"=>"40x961527499999995y-73x8157651-latlong"}
+Completed 200 OK in 216ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/23x70269186248023y-48x327633849999984-latlong/40x9614914y-73x8159151-latlong" for ::1 at 2017-03-30 23:24:20 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"23x70269186248023y-48x327633849999984-latlong", "origin"=>"40x9614914y-73x8159151-latlong"}
+Completed 200 OK in 214ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x817575276590226y-81x19863680000003-latlong/40x961541y-73x8158243-latlong" for ::1 at 2017-03-30 23:28:26 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x817575276590226y-81x19863680000003-latlong", "origin"=>"40x961541y-73x8158243-latlong"}
+Completed 200 OK in 1369ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/9x25162669998491y-66x78457430000003-latlong/40x961541y-73x8158243-latlong" for ::1 at 2017-03-30 23:28:31 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"9x25162669998491y-66x78457430000003-latlong", "origin"=>"40x961541y-73x8158243-latlong"}
+Completed 200 OK in 229ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/38x66652913955732y-8x249418050000031-latlong/40x961541y-73x8158243-latlong" for ::1 at 2017-03-30 23:28:36 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"38x66652913955732y-8x249418050000031-latlong", "origin"=>"40x961541y-73x8158243-latlong"}
+Completed 200 OK in 862ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/38x52914843231271y-5x261136800000031-latlong/40x961541y-73x8158243-latlong" for ::1 at 2017-03-30 23:28:38 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"38x52914843231271y-5x261136800000031-latlong", "origin"=>"40x961541y-73x8158243-latlong"}
+Completed 200 OK in 221ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/38x25359892569475y-7x897855550000031-latlong/40x961541y-73x8158243-latlong" for ::1 at 2017-03-30 23:28:40 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"38x25359892569475y-7x897855550000031-latlong", "origin"=>"40x961541y-73x8158243-latlong"}
+Completed 200 OK in 221ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/41x75317657640062y-7x722074300000031-latlong/40x961541y-73x8158243-latlong" for ::1 at 2017-03-30 23:28:43 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"41x75317657640062y-7x722074300000031-latlong", "origin"=>"40x961541y-73x8158243-latlong"}
+Completed 200 OK in 390ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/33x9960873282071y-4x909574300000031-latlong/40x961541y-73x8158243-latlong" for ::1 at 2017-03-30 23:28:47 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"33x9960873282071y-4x909574300000031-latlong", "origin"=>"40x961541y-73x8158243-latlong"}
+Completed 200 OK in 614ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/34x43216797339175y1x7701131999999689-latlong/40x961541y-73x8158243-latlong" for ::1 at 2017-03-30 23:28:49 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"34x43216797339175y1x7701131999999689-latlong", "origin"=>"40x961541y-73x8158243-latlong"}
+Completed 200 OK in 264ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x972931443188948y-15x456449300000031-latlong/40x961541y-73x8158243-latlong" for ::1 at 2017-03-30 23:28:57 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x972931443188948y-15x456449300000031-latlong", "origin"=>"40x961541y-73x8158243-latlong"}
+Completed 200 OK in 275ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/23x863501718154115y-12x468270450000091-latlong/40x9614553y-73x81592669999999-latlong" for ::1 at 2017-03-30 23:32:15 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"23x863501718154115y-12x468270450000091-latlong", "origin"=>"40x9614553y-73x81592669999999-latlong"}
+Completed 200 OK in 333ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/28x437556483644677y-13x918465762500091-latlong/40x9614553y-73x81592669999999-latlong" for ::1 at 2017-03-30 23:32:22 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"28x437556483644677y-13x918465762500091-latlong", "origin"=>"40x9614553y-73x81592669999999-latlong"}
+Completed 200 OK in 335ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x723914610215644y-81x55017379999998-latlong/40x961556y-73x8157988-latlong" for ::1 at 2017-03-30 23:34:43 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x723914610215644y-81x55017379999998-latlong", "origin"=>"40x961556y-73x8157988-latlong"}
+Completed 200 OK in 535ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x05776781957853y-81x56449375-latlong/40x7128y-74x0059-latlong" for ::1 at 2017-03-30 23:36:26 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x05776781957853y-81x56449375-latlong", "origin"=>"40x7128y-74x0059-latlong"}
+Completed 200 OK in 609ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/2x1073748184248156y-72x59965-latlong/40x7128y-74x0059-latlong" for ::1 at 2017-03-30 23:36:28 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"2x1073748184248156y-72x59965-latlong", "origin"=>"40x7128y-74x0059-latlong"}
+Completed 200 OK in 424ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/6x204574560061117y-75x52201328125-latlong/40x7128y-74x0059-latlong" for ::1 at 2017-03-30 23:36:41 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"6x204574560061117y-75x52201328125-latlong", "origin"=>"40x7128y-74x0059-latlong"}
+Completed 200 OK in 1209ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/32x31441876815y-64x82974958749998-latlong/40x70511440000001y-74x01431989999999-latlong" for ::1 at 2017-03-31 09:09:32 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"32x31441876815y-64x82974958749998-latlong", "origin"=>"40x70511440000001y-74x01431989999999-latlong"}
+Completed 200 OK in 363ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/-31x138183095732927y-44x08756208749992-latlong/40x70511440000001y-74x01431989999999-latlong" for ::1 at 2017-03-31 09:12:13 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-31x138183095732927y-44x08756208749992-latlong", "origin"=>"40x70511440000001y-74x01431989999999-latlong"}
+Completed 200 OK in 228ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/40x705088599999996y-60x654756700000064-latlong/40x705088599999996y-74x0141317-latlong" for ::1 at 2017-03-31 09:18:24 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"40x705088599999996y-60x654756700000064-latlong", "origin"=>"40x705088599999996y-74x0141317-latlong"}
+Completed 200 OK in 448ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/45x698009677976906y-60x303194200000064-latlong/40x705088599999996y-74x0141317-latlong" for ::1 at 2017-03-31 09:18:26 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"45x698009677976906y-60x303194200000064-latlong", "origin"=>"40x705088599999996y-74x0141317-latlong"}
+Completed 200 OK in 461ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/39x90076278734473y-62x061006700000064-latlong/40x705088599999996y-74x0141317-latlong" for ::1 at 2017-03-31 09:18:27 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"39x90076278734473y-62x061006700000064-latlong", "origin"=>"40x705088599999996y-74x0141317-latlong"}
+Completed 200 OK in 252ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/40x971066354324975y-59x424287950000064-latlong/40x705088599999996y-74x0141317-latlong" for ::1 at 2017-03-31 09:18:43 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"40x971066354324975y-59x424287950000064-latlong", "origin"=>"40x705088599999996y-74x0141317-latlong"}
+Completed 200 OK in 537ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x673168883452693y-80x86960045000006-latlong/40x705088599999996y-74x0141317-latlong" for ::1 at 2017-03-31 09:18:50 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x673168883452693y-80x86960045000006-latlong", "origin"=>"40x705088599999996y-74x0141317-latlong"}
+Completed 200 OK in 544ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-31 09:35:12 -0400
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /Users/CorinneKelly/.rvm/gems/ruby-2.3.3/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/CorinneKelly/.rvm/gems/ruby-2.3.3/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb (5.9ms)
+Completed 200 OK in 91ms (Views: 68.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x02999636902566y-79x98046875-latlong/40x704817299999995y-74x01333009999999-latlong" for ::1 at 2017-03-31 10:21:58 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x02999636902566y-79x98046875-latlong", "origin"=>"40x704817299999995y-74x01333009999999-latlong"}
+Completed 200 OK in 314ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/16x130262012034756y1x0546875-latlong/40x704817299999995y-74x01333009999999-latlong" for ::1 at 2017-03-31 10:21:59 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"16x130262012034756y1x0546875-latlong", "origin"=>"40x704817299999995y-74x01333009999999-latlong"}
+Completed 200 OK in 235ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/31x503629305773032y5x625-latlong/40x704817299999995y-74x01333009999999-latlong" for ::1 at 2017-03-31 10:22:00 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"31x503629305773032y5x625-latlong", "origin"=>"40x704817299999995y-74x01333009999999-latlong"}
+Completed 200 OK in 312ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/33x43144133557529y0x791015625-latlong/40x704817299999995y-74x01333009999999-latlong" for ::1 at 2017-03-31 10:22:03 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"33x43144133557529y0x791015625-latlong", "origin"=>"40x704817299999995y-74x01333009999999-latlong"}
+Completed 200 OK in 271ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/33x394759218577995y0x791015625-latlong/40x704817299999995y-74x01333009999999-latlong" for ::1 at 2017-03-31 10:22:04 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"33x394759218577995y0x791015625-latlong", "origin"=>"40x704817299999995y-74x01333009999999-latlong"}
+Completed 200 OK in 211ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x71975793933433y-5x77880859375-latlong/40x704817299999995y-74x01333009999999-latlong" for ::1 at 2017-03-31 10:22:10 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x71975793933433y-5x77880859375-latlong", "origin"=>"40x704817299999995y-74x01333009999999-latlong"}
+Completed 200 OK in 373ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/37x96152331396613y23x9501953125-latlong/40x704817299999995y-74x01333009999999-latlong" for ::1 at 2017-03-31 10:23:43 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"37x96152331396613y23x9501953125-latlong", "origin"=>"40x704817299999995y-74x01333009999999-latlong"}
+Completed 200 OK in 2133ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/42x35854391749706y25x6640625-latlong/40x704817299999995y-74x01333009999999-latlong" for ::1 at 2017-03-31 10:23:50 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"42x35854391749706y25x6640625-latlong", "origin"=>"40x704817299999995y-74x01333009999999-latlong"}
+Completed 200 OK in 556ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/39x36827914916013y28x6962890625-latlong/40x704817299999995y-74x01333009999999-latlong" for ::1 at 2017-03-31 10:23:53 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"39x36827914916013y28x6962890625-latlong", "origin"=>"40x704817299999995y-74x01333009999999-latlong"}
+Completed 200 OK in 197ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/41x27780646738183y21x533203125-latlong/40x704817299999995y-74x01333009999999-latlong" for ::1 at 2017-03-31 10:23:54 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"41x27780646738183y21x533203125-latlong", "origin"=>"40x704817299999995y-74x01333009999999-latlong"}
+Completed 200 OK in 2138ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/40x0780714274501y20x2587890625-latlong/40x704817299999995y-74x01333009999999-latlong" for ::1 at 2017-03-31 10:23:56 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"40x0780714274501y20x2587890625-latlong", "origin"=>"40x704817299999995y-74x01333009999999-latlong"}
+Completed 200 OK in 336ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/29x075375179558346y-80x15625-latlong/40x7048513y-74x0133065-latlong" for ::1 at 2017-03-31 12:52:59 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"29x075375179558346y-80x15625-latlong", "origin"=>"40x7048513y-74x0133065-latlong"}
+Completed 200 OK in 474ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/11x350796722383672y-81x03515625-latlong/40x7048513y-74x0133065-latlong" for ::1 at 2017-03-31 12:53:00 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"11x350796722383672y-81x03515625-latlong", "origin"=>"40x7048513y-74x0133065-latlong"}
+Completed 200 OK in 189ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/14x43468021529728y-61x34765625-latlong/40x704824099999996y-74x013317-latlong" for ::1 at 2017-03-31 12:53:21 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"14x43468021529728y-61x34765625-latlong", "origin"=>"40x704824099999996y-74x013317-latlong"}
+Completed 200 OK in 668ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/16x130262012034756y-64x16015625-latlong/40x704824099999996y-74x013317-latlong" for ::1 at 2017-03-31 12:53:22 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"16x130262012034756y-64x16015625-latlong", "origin"=>"40x704824099999996y-74x013317-latlong"}
+Completed 200 OK in 191ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/18x06231230454674y-66x884765625-latlong/40x704824099999996y-74x013317-latlong" for ::1 at 2017-03-31 12:53:24 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"18x06231230454674y-66x884765625-latlong", "origin"=>"40x704824099999996y-74x013317-latlong"}
+Completed 200 OK in 281ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/-24x926294766395582y-69x345703125-latlong/40x704824099999996y-74x013317-latlong" for ::1 at 2017-03-31 12:53:59 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-24x926294766395582y-69x345703125-latlong", "origin"=>"40x704824099999996y-74x013317-latlong"}
+Completed 200 OK in 429ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/-21x657428197370642y-53x349609375-latlong/40x704824099999996y-74x013317-latlong" for ::1 at 2017-03-31 12:54:01 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-21x657428197370642y-53x349609375-latlong", "origin"=>"40x704824099999996y-74x013317-latlong"}
+Completed 200 OK in 212ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/-16x383391123608387y-50x888671875-latlong/40x704824099999996y-74x013317-latlong" for ::1 at 2017-03-31 12:54:02 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-16x383391123608387y-50x888671875-latlong", "origin"=>"40x704824099999996y-74x013317-latlong"}
+Completed 200 OK in 305ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/-11x73830237143684y-76x1572265625-latlong/40x704824099999996y-74x013317-latlong" for ::1 at 2017-03-31 12:54:04 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-11x73830237143684y-76x1572265625-latlong", "origin"=>"40x704824099999996y-74x013317-latlong"}
+Completed 200 OK in 310ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/34x59704151614417y-79x98046875-latlong/40x7048275y-74x0131814-latlong" for ::1 at 2017-03-31 12:58:01 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"34x59704151614417y-79x98046875-latlong", "origin"=>"40x7048275y-74x0131814-latlong"}
+Completed 200 OK in 494ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x64152637306577y-80x947265625-latlong/40x7048275y-74x0131814-latlong" for ::1 at 2017-03-31 12:58:03 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x64152637306577y-80x947265625-latlong", "origin"=>"40x7048275y-74x0131814-latlong"}
+Completed 200 OK in 744ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/33x43144133557529y-7x62451171875-latlong/40x7048275y-74x0131814-latlong" for ::1 at 2017-03-31 12:58:27 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"33x43144133557529y-7x62451171875-latlong", "origin"=>"40x7048275y-74x0131814-latlong"}
+Completed 200 OK in 486ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/27x877928333679495y-15x556640625-latlong/40x7048275y-74x0131814-latlong" for ::1 at 2017-03-31 12:58:38 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"27x877928333679495y-15x556640625-latlong", "origin"=>"40x7048275y-74x0131814-latlong"}
+Completed 200 OK in 774ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/12x885802589844175y-85x614913-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:02:52 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"12x885802589844175y-85x614913-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 302ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/12x211180191503997y-84x55078125-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:02:53 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"12x211180191503997y-84x55078125-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 325ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/16x46769474828897y-93x603515625-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:02:54 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"16x46769474828897y-93x603515625-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 434ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/14x43468021529728y-87x1875-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:02:56 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"14x43468021529728y-87x1875-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 367ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/-31x353636941500987y149x0625-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:03:22 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-31x353636941500987y149x0625-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 208ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/-26x74561038219901y140x625-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:03:23 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-26x74561038219901y140x625-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 206ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/-22x91792293614603y123x3984375-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:03:25 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-22x91792293614603y123x3984375-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 196ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/-36x87962060502676y150x46875-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:03:26 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-36x87962060502676y150x46875-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 291ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/-23x48340065432563y139x5263671875-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:03:38 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-23x48340065432563y139x5263671875-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 307ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/-16x55196172197251y145x2392578125-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:03:40 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-16x55196172197251y145x2392578125-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Started GET "/flights/-19x890723023996898y147x041015625-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:03:41 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-19x890723023996898y147x041015625-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 1748ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 1105ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/-19x22817673776625y146x162109375-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:03:44 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-19x22817673776625y146x162109375-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 192ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/-16x003575733881313y145x1513671875-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:03:46 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-16x003575733881313y145x1513671875-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 280ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/-11x350796722383672y142x4267578125-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:03:53 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-11x350796722383672y142x4267578125-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 236ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/-9x188870084473393y161x1474609375-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:03:56 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-9x188870084473393y161x1474609375-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 235ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/-17x978733095556155y178x154296875-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:04:06 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"-17x978733095556155y178x154296875-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 354ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/28x92163128242129y111x4453125-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:04:18 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"28x92163128242129y111x4453125-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 221ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/23x885837699862y111x09375-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:04:20 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"23x885837699862y111x09375-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 193ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x745610382199025y95x9765625-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:04:21 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x745610382199025y95x9765625-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 217ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/32x24997445586331y74x53125-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:04:27 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"32x24997445586331y74x53125-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 382ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/43x32517767999296y23x5546875-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:04:45 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"43x32517767999296y23x5546875-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 389ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/59x17592824927136y8x7890625-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:04:51 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"59x17592824927136y8x7890625-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 228ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/42x811521745097906y24x609375-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:04:53 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"42x811521745097906y24x609375-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 264ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/47x989921667414194y33x75-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:04:54 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"47x989921667414194y33x75-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 212ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/56x559482483762245y24x609375-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:04:55 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"56x559482483762245y24x609375-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 481ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x389049966911664y9x755859375-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:05:02 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x389049966911664y9x755859375-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 249ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x88905007936091y6x328125-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:05:04 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x88905007936091y6x328125-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 260ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/25x562265014427492y33x486328125-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:05:06 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"25x562265014427492y33x486328125-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 431ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/18x229351338386685y35x68359375-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:05:08 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"18x229351338386685y35x68359375-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 599ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/19x973348786110602y42x099609375-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:05:09 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"19x973348786110602y42x099609375-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 225ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/23x96617587126503y55x1953125-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:05:11 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"23x96617587126503y55x1953125-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 314ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/29x45873118535534y47x98828125-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:05:13 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"29x45873118535534y47x98828125-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 406ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/40x04443758460856y43x41796875-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:05:17 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"40x04443758460856y43x41796875-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 329ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/37x92686760148135y43x505859375-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:05:19 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"37x92686760148135y43x505859375-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 339ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/39x16414104768743y29x091796875-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:05:21 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"39x16414104768743y29x091796875-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 252ms (Views: 0.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x431228064506442y33x046875-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:05:23 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x431228064506442y33x046875-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 250ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/30x675715404167743y31x201171875-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:05:24 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"30x675715404167743y31x201171875-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 765ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/14x093957177836222y-15x556640625-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:05:27 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"14x093957177836222y-15x556640625-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 285ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/10x228437266155943y-13x447265625-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:05:29 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"10x228437266155943y-13x447265625-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 558ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/34x379712580462204y-5x625-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:05:31 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"34x379712580462204y-5x625-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 279ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/14x43468021529728y3x7353515625-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:05:36 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"14x43468021529728y3x7353515625-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 218ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/5x353521355337334y-5x2734375-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:05:39 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"5x353521355337334y-5x2734375-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 330ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/5x375397774474748y-3x93310546875-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:05:46 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"5x375397774474748y-3x93310546875-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 386ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/41x83682786072715y12x63427734375-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:06:00 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"41x83682786072715y12x63427734375-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 2108ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/40x83043687764923y14x34814453125-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:06:05 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"40x83043687764923y14x34814453125-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 479ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/38x07404145941957y13x38134765625-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:06:08 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"38x07404145941957y13x38134765625-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 803ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/41x77131167976406y9x140625-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:06:13 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"41x77131167976406y9x140625-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 2700ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/43x548548110912854y7x03125-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:06:20 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"43x548548110912854y7x03125-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 701ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/45x10454630976873y15x106201171875-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:06:26 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"45x10454630976873y15x106201171875-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 348ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/52x50953477032727y6x767578125-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:06:37 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"52x50953477032727y6x767578125-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 275ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/55x50374985927514y23x818359375-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:06:40 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"55x50374985927514y23x818359375-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 280ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/51x52241608253254y46x03271484375-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:06:45 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"51x52241608253254y46x03271484375-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 246ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/42x811521745097906y129x19921875-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:06:51 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"42x811521745097906y129x19921875-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 329ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x460669951495305y128x14453125-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:06:54 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x460669951495305y128x14453125-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 376ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/35x60371874069731y138x33984375-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:06:56 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"35x60371874069731y138x33984375-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 297ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/43x32517767999296y142x91015625-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:06:57 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"43x32517767999296y142x91015625-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 451ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/53x330872983017066y157x67578125-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:07:01 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"53x330872983017066y157x67578125-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 303ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/60x23981116999892y-155x390625-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:07:06 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"60x23981116999892y-155x390625-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 207ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x431228064506442y-109x6875-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:07:09 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x431228064506442y-109x6875-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 211ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/14x944784875088372y-91x40625-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:07:10 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"14x944784875088372y-91x40625-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 250ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/9x795677582829745y-84x0234375-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:07:57 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"9x795677582829745y-84x0234375-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 497ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/8x885071663468993y-79x453125-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:08:00 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"8x885071663468993y-79x453125-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 1178ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/9x817329187067783y-84x08935546875-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:08:03 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"9x817329187067783y-84x08935546875-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 248ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/13x325484885597936y-87x8466796875-latlong/40x704868y-74x0133505-latlong" for ::1 at 2017-03-31 13:08:09 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"13x325484885597936y-87x8466796875-latlong", "origin"=>"40x704868y-74x0133505-latlong"}
+Completed 200 OK in 249ms (Views: 0.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/flights/26x588527147308614y-80x68359375-latlong/40x7049252y-74x0134274-latlong" for ::1 at 2017-03-31 13:17:53 -0400
+Processing by ApplicationController#incoming as HTML
+  Parameters: {"destination"=>"26x588527147308614y-80x68359375-latlong", "origin"=>"40x7049252y-74x0134274-latlong"}
+Completed 200 OK in 876ms (Views: 0.1ms | ActiveRecord: 0.0ms)
+
+
