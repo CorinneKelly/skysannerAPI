@@ -1,6 +1,7 @@
 class ApplicationController < ActionController::API
 	include HTTParty
-
+	Access-Control-Allow-Origin: *
+	
 	def incoming
 		destination = params[:destination].gsub("x", ".").gsub("y", ",")
 		origin_destination = params[:origin].gsub("x", ".").gsub("y", ",")
